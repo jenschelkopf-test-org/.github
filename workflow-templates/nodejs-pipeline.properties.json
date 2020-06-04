@@ -2,5 +2,5 @@
     "name": "NodeJS Pipeline",
     "description": "Build and deploy a nodejs project.",
     "iconName": "octicon smiley",
-    "categories": null
+    "categories": ["JavaScript"]
 }
